@@ -1,7 +1,21 @@
 # flip-page
 supported tag for Text formatting in Page flip
 
-0. `<T></T>` **whole text** tag
+-2. <Audio res=''></Audio>
+     * `position` = '%top,%left,%width,%height' `0<=top,left,width,hight<=100`
+     * `border` = `{none|dots|line}`
+     * `bg-color` = backgroud color of the whole area -> `VALID COLOR CODE`
+     * `bg-res` = background resource to drown
+     * `res` = audio clip file uri
+
+-1. <Video res=''></Video>
+     * `position` = '%top,%left,%width,%height' `0<=top,left,width,hight<=100`
+     * `border` = `{none|dots|line}`
+     * `bg-color` = backgroud color of the whole area -> `VALID COLOR CODE`
+     * `bg-res` = background resource to drown
+     * `res` = audio clip file uri
+
+0. `<Text></Text>` **Text** tag
       * `font-name`= `{}`
       * `border` = `{none|dots|line}`
       * `bg-color` = backgroud color of the whole area -> `VALID COLOR CODE`
@@ -17,7 +31,7 @@ supported tag for Text formatting in Page flip
     * `hi` = head indent
     * `li` = line indent
 
-2. `<a></a>` **Action** on tap
+2. `<ac></ac>` **Action** on tap
      * `audio-time` = millis
      * `video-clip` = 'resource identifier'
      * `popup` = 'resource identifier'
