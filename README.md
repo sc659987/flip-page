@@ -57,3 +57,13 @@ Implementation :
   TODO make this documents more generic , include provision for image and video. 
   
   video add on will be added on 5 iteration but needs to be consider and think
+  
+  Today's todo : 
+  
+     i. Create task in project as below 
+         a. create a model library which contains all the model classes
+         b. Create a interpreter model which reads sample json and puts the value in mdoels
+         c. create/modify the existing json to fit the modified requirements
+  
+  
+  
