@@ -15,7 +15,7 @@ supported tag for Text formatting in Page flip
       * `border` = `{none|dots|line}`
       * `bg-color` = backgroud color of the whole area -> `VALID COLOR CODE`
       * `bg-res` = background resource to drown
-      * `res` = audio clip file uri
+      * `res` = video clip file uri
 
 0. `<Text></Text>` **Text** tag
       * `font-name`= `{}`
