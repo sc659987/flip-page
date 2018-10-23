@@ -1,7 +1,7 @@
 # flip-page
 supported tag for Text formatting in Page flip
 
--2. <Audio res=''></Audio> attributes are as below
+-2. `<Audio res=''> </Audio>` attributes are as below
  
      * `position` = '%top,%left,%width,%height' `0<=top,left,width,hight<=100`
      * `border` = `{none|dots|line}`
@@ -9,7 +9,7 @@ supported tag for Text formatting in Page flip
      * `bg-res` = background resource to drown
      * `res` = audio clip file uri
 
--1. <Video res=''></Video>
+-1. `<Video res=''> </Video>` attributes are as below
      * `position` = '%top,%left,%width,%height' `0<=top,left,width,hight<=100`
      * `border` = `{none|dots|line}`
      * `bg-color` = backgroud color of the whole area -> `VALID COLOR CODE`
