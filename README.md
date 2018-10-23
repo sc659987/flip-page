@@ -62,7 +62,7 @@ Implementation :
   
      i. Create task in project as below 
          a. create a model library which contains all the model classes
-         b. Create a interpreter model which reads sample json and puts the value in mdoels
+         b. Create a interpreter code(using deisgn pattern Interpreter) which reads sample json and puts the value in mdoels
          c. create/modify the existing json to fit the modified requirements
   
   
