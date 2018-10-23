@@ -2,6 +2,7 @@
 supported tag for Text formatting in Page flip
 
 -2. `<Audio></Audio>` attributes are as below
+
       * `position` = '%top,%left,%width,%height' `0<=top,left,width,hight<=100`
       * `border` = `{none|dots|line}`
       * `bg-color` = backgroud color of the whole area -> `VALID COLOR CODE`
@@ -9,6 +10,7 @@ supported tag for Text formatting in Page flip
       * `res` = audio clip file uri
 
 -1. `<Video></Video>` attributes are as below
+
       * `position` = '%top,%left,%width,%height' `0<=top,left,width,hight<=100`
       * `border` = `{none|dots|line}`
       * `bg-color` = backgroud color of the whole area -> `VALID COLOR CODE`
