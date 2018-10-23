@@ -1,4 +1,4 @@
-# flip-page
+# Flip-page
 supported tag for Text formatting in Page flip
 
 -2. `<Audio></Audio>` attributes are as below
