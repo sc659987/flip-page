@@ -2,7 +2,7 @@
       "global-prop":{
          "default-font-number":"20",
          "languages-suportted":[ "EN" , "ES" , "CN" ],
-         "cloud-properties":{"bg-color":"#0099FF","abfuscate":"true","cached":"true"}
+         "cloud-properties":{"bg-color":"#0099FF"}
       },
       "pages":[
          {
