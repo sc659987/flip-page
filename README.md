@@ -26,6 +26,7 @@ supported tag for Text formatting in Page flip
       * `angle` = rotate clock wise angle `0-180`
       * `highlightTextOnAudio` =  high light the text if player is playing audio {`true`|`false`}
       * `action-enable` = make action tag valid only if value is `true` {`true`|`false`}
+      * `audio-res` = uri to audio file
 
 1. `<p></p>` for **Paragraph**  attributes are below (nested to <Text> tag)
     * `pg-sp` = paragraph Spacing
