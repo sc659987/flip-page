@@ -2,7 +2,7 @@
       "global-prop":{
          "default-font-number":"20",
          "languages-suportted":[ "EN" , "ES" , "CN" ],
-         "cloud-properties":{"bg-color":"#0099FF"}
+         "cloud-properties":{"bg-color":"#0099FF", "url-prefix"="https://6fingers.com/"}
       },
       "pages":[
          {
